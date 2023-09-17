@@ -7,13 +7,10 @@ function App() {
   const [guess,Setguess]=useState(null);
   const [suggest,Setsuggest]=useState('');
   const [neew,Setneew]=useState('');
-  console.log(ans);
   function Check(event)
   {
     event.preventDefault();
     Setneew('');
-    console.log(guess);
-
     if(guess===ans)
     {
       Setsuggest("Congratulations You Guess it Right Guess the new number");
