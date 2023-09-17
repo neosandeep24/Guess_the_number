@@ -29,7 +29,8 @@ function App() {
   return (
     <div className="App">
     <form onSubmit={Check}>
-      <h2>Guess the number between 1-100</h2>
+      <h2>Guess the number between</h2>
+      <h2> 1 - 100 </h2>
       <input
         type="number"
         value={guess}
