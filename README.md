@@ -1,7 +1,7 @@
 # Guess_the_number
 ###It is a simple number guessing game you can play it by using 
 <h3>
-  <a href="https://guess-the-number-henna.vercel.app/">GuessTheNumber</a>
+  <a href="https://guess-the-number-silk.vercel.app/">GuessTheNumber</a>
 </h3>
 <h1 align='center'> Technology Stack Used</h1>
 <div align="center">
